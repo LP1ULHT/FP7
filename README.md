@@ -20,8 +20,9 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 	```bash
 	.\mycopy fichOrigem.txt fichDestino.txt
 	```
+3. Implemente um utilitário que permita calcular quantas palavras existem num ficheiro. O utilitário deverá receber o nome dos ficheiros por argumento.
 
-3. Suponha que possui um ficheiro que contém em cada linha o nome de um aluno (apenas uma palavra) e a sua respetiva classificação (0..20).
+4. Suponha que possui um ficheiro que contém em cada linha o nome de um aluno (apenas uma palavra) e a sua respetiva classificação (0..20).
 	|Nome	| Class.|
 	|-------|-------|
 	|Maria	| 14	|
@@ -34,7 +35,8 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
    a) mostre no ecrã do seu computador apenas os alunos que obtiveram aprovação e respetivas notas (classificação >= 10) na disciplina a que o ficheiro corresponde. 
 
    b) calcule a media da turma, e indique o nome da pessoa que teve a melhor nota, indicando seu nome e nota.
+ 
 
-4. Escreva um programa que leia um vetor com 10 inteiros a partir do teclado e guarde os seus valores no ficheiro DADOS.DAT (em binário).
+5. Escreva um programa que leia um vetor com 10 inteiros a partir do teclado e guarde os seus valores no ficheiro DADOS.DAT (em binário).
 
-5. Escreva um programa que abra o ficheiro DADOS.DAT (em binário) e apresente no ecrã a soma dos inteiros que contém.
+6. Escreva um programa que abra o ficheiro DADOS.DAT (em binário) e apresente no ecrã a soma dos inteiros que contém.
