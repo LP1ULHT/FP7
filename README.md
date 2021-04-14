@@ -14,9 +14,17 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 
-1. Implemente um programa que indique se podemos ou não abrir um determinado ficheiro.
+1. Implemente um programa que indique se podemos ou não abrir um determinado ficheiro. Exemplo de utilização
+	```
+	$ .\verificador 
+	Falta especificar o nome do ficheiro
+	$ .\verificador xpto.txt
+	xpto.txt não existe
+	$ .\verificador ficheiro.txt
+	Ficheiro.txt existe e foi corretamente aberto
+	```
 
-2. Implemente um utilitário que permita copiar um ficheiro para outro. O utilitário deverá receber o nome dos ficheiros por argumento.
+2. Implemente um utilitário que permita copiar um ficheiro para outro. O utilitário deverá receber o nome do ficheiro por argumento.
 	```bash
 	.\mycopy fichOrigem.txt fichDestino.txt
 	```
