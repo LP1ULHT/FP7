@@ -1,8 +1,8 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-*Linguagens de Programação I - 2020/2021*
+*Linguagens de Programação I - 2021/2022*
 
-# Ficha de Exercícios - 7: Ficheiros
+# Ficha de Exercícios : Ficheiros
 
 Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 
